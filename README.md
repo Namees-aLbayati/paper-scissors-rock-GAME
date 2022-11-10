@@ -1,4 +1,5 @@
-# JS Game
+# JS P R S  Game
+Live Url https://namees-albayati.github.io/paper-scissors-rock-GAME/
 
 workthough video posted below:
 
